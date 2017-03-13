@@ -7,5 +7,6 @@ function showMe()
 {
 
  alert("my name is ...")
+ alert("my job is")
 
 }
